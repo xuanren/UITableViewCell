@@ -18,7 +18,7 @@
 {
     self = [super initWithStyle:style reuseIdentifier:reuseIdentifier];
     if (self) {
-        // Initialization code
+        
         _lbName = [[UILabel alloc]initWithFrame:CGRectMake(70, 15, 200, 20)];
         self.lbName.font = [UIFont boldSystemFontOfSize:18];
         self.lbName.textColor = [UIColor grayColor];
