@@ -7,6 +7,12 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		2C11776D1B7333F300227467 /* 1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2C11776C1B7333F300227467 /* 1.jpg */; };
+		2C11776F1B73340F00227467 /* 2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2C11776E1B73340F00227467 /* 2.jpg */; };
+		2C1177711B73341500227467 /* 3.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2C1177701B73341500227467 /* 3.jpg */; };
+		2C1177731B73341A00227467 /* 4.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2C1177721B73341A00227467 /* 4.jpg */; };
+		2C1177751B73341E00227467 /* 5.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2C1177741B73341E00227467 /* 5.jpg */; };
+		2C1177771B73342200227467 /* 6.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2C1177761B73342200227467 /* 6.jpg */; };
 		2C204CED1B71BD2C001B53DF /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 2C204CEC1B71BD2C001B53DF /* main.m */; };
 		2C204CF01B71BD2C001B53DF /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 2C204CEF1B71BD2C001B53DF /* AppDelegate.m */; };
 		2C204CF31B71BD2C001B53DF /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 2C204CF21B71BD2C001B53DF /* ViewController.m */; };
@@ -14,6 +20,8 @@
 		2C204CF81B71BD2C001B53DF /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2C204CF71B71BD2C001B53DF /* Images.xcassets */; };
 		2C204CFB1B71BD2C001B53DF /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 2C204CF91B71BD2C001B53DF /* LaunchScreen.xib */; };
 		2C204D071B71BD2C001B53DF /* TableViewCellDemoTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 2C204D061B71BD2C001B53DF /* TableViewCellDemoTests.m */; };
+		2C204D121B71DB47001B53DF /* TableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 2C204D111B71DB47001B53DF /* TableViewCell.m */; };
+		2C204D141B71EB21001B53DF /* 123.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2C204D131B71EB21001B53DF /* 123.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -27,6 +35,12 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		2C11776C1B7333F300227467 /* 1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = 1.jpg; path = ../../1.jpg; sourceTree = "<group>"; };
+		2C11776E1B73340F00227467 /* 2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = 2.jpg; path = ../../2.jpg; sourceTree = "<group>"; };
+		2C1177701B73341500227467 /* 3.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = 3.jpg; path = ../../3.jpg; sourceTree = "<group>"; };
+		2C1177721B73341A00227467 /* 4.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = 4.jpg; path = ../../4.jpg; sourceTree = "<group>"; };
+		2C1177741B73341E00227467 /* 5.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = 5.jpg; path = ../../5.jpg; sourceTree = "<group>"; };
+		2C1177761B73342200227467 /* 6.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = 6.jpg; path = ../../6.jpg; sourceTree = "<group>"; };
 		2C204CE71B71BD2C001B53DF /* TableViewCellDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TableViewCellDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		2C204CEB1B71BD2C001B53DF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		2C204CEC1B71BD2C001B53DF /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
@@ -40,6 +54,9 @@
 		2C204D001B71BD2C001B53DF /* TableViewCellDemoTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TableViewCellDemoTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		2C204D051B71BD2C001B53DF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		2C204D061B71BD2C001B53DF /* TableViewCellDemoTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TableViewCellDemoTests.m; sourceTree = "<group>"; };
+		2C204D101B71DB47001B53DF /* TableViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TableViewCell.h; sourceTree = "<group>"; };
+		2C204D111B71DB47001B53DF /* TableViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TableViewCell.m; sourceTree = "<group>"; };
+		2C204D131B71EB21001B53DF /* 123.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = 123.jpg; path = ../../123.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -81,6 +98,15 @@
 		2C204CE91B71BD2C001B53DF /* TableViewCellDemo */ = {
 			isa = PBXGroup;
 			children = (
+				2C1177761B73342200227467 /* 6.jpg */,
+				2C1177741B73341E00227467 /* 5.jpg */,
+				2C1177721B73341A00227467 /* 4.jpg */,
+				2C1177701B73341500227467 /* 3.jpg */,
+				2C11776E1B73340F00227467 /* 2.jpg */,
+				2C11776C1B7333F300227467 /* 1.jpg */,
+				2C204D131B71EB21001B53DF /* 123.jpg */,
+				2C204D101B71DB47001B53DF /* TableViewCell.h */,
+				2C204D111B71DB47001B53DF /* TableViewCell.m */,
 				2C204CEE1B71BD2C001B53DF /* AppDelegate.h */,
 				2C204CEF1B71BD2C001B53DF /* AppDelegate.m */,
 				2C204CF11B71BD2C001B53DF /* ViewController.h */,
@@ -199,9 +225,16 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2C1177731B73341A00227467 /* 4.jpg in Resources */,
+				2C11776F1B73340F00227467 /* 2.jpg in Resources */,
+				2C204D141B71EB21001B53DF /* 123.jpg in Resources */,
+				2C1177751B73341E00227467 /* 5.jpg in Resources */,
+				2C1177771B73342200227467 /* 6.jpg in Resources */,
 				2C204CF61B71BD2C001B53DF /* Main.storyboard in Resources */,
 				2C204CFB1B71BD2C001B53DF /* LaunchScreen.xib in Resources */,
 				2C204CF81B71BD2C001B53DF /* Images.xcassets in Resources */,
+				2C1177711B73341500227467 /* 3.jpg in Resources */,
+				2C11776D1B7333F300227467 /* 1.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -220,6 +253,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				2C204CF31B71BD2C001B53DF /* ViewController.m in Sources */,
+				2C204D121B71DB47001B53DF /* TableViewCell.m in Sources */,
 				2C204CF01B71BD2C001B53DF /* AppDelegate.m in Sources */,
 				2C204CED1B71BD2C001B53DF /* main.m in Sources */,
 			);
@@ -416,6 +450,7 @@
 				2C204D0C1B71BD2C001B53DF /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		2C204D0D1B71BD2C001B53DF /* Build configuration list for PBXNativeTarget "TableViewCellDemoTests" */ = {
 			isa = XCConfigurationList;
@@ -424,6 +459,7 @@
 				2C204D0F1B71BD2C001B53DF /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

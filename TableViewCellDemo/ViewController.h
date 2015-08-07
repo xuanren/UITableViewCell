@@ -7,9 +7,14 @@
 //
 
 #import <UIKit/UIKit.h>
+#import "TableViewCell.h"
 
-@interface ViewController : UIViewController
-
+@interface ViewController : UIViewController<UITableViewDelegate,UITableViewDataSource>
+{
+    NSArray *m_arrNames;
+    NSArray *m_arrinfos;
+    NSArray *m_arrImages;
+}
 
 @end
 
